@@ -7,7 +7,7 @@
     "packageManager": "pnpm@10.18.3",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Koenkk/zigbee2mqtt.git"
+        "url": "git+https://github.com/aryelevin/zigbee2mqtt.git"
     },
     "engines": {
         "node": "^20.15.0 || ^22.2.0 || ^24"
@@ -38,9 +38,9 @@
     "author": "Koen Kanters",
     "license": "GPL-3.0",
     "bugs": {
-        "url": "https://github.com/Koenkk/zigbee2mqtt/issues"
+        "url": "https://github.com/aryelevin/zigbee2mqtt/issues"
     },
-    "homepage": "https://koenkk.github.io/zigbee2mqtt",
+    "homepage": "https://aryelevin.github.io/zigbee2mqtt",
     "dependencies": {
         "ajv": "^8.17.1",
         "bind-decorator": "^1.0.11",
@@ -62,8 +62,8 @@
         "winston-syslog": "^2.7.1",
         "winston-transport": "^4.9.0",
         "ws": "^8.18.1",
-        "zigbee-herdsman": "7.0.1",
-        "zigbee-herdsman-converters": "25.80.0",
+        "https://github.com/aryelevin/zigbee-herdsman": "7.0.1",
+        "https://github.com/aryelevin/zigbee-herdsman-converters": "25.80.0",
         "zigbee2mqtt-frontend": "0.9.21",
         "zigbee2mqtt-windfront": "2.4.2"
     },
